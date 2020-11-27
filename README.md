@@ -1,2 +1,1 @@
-# oc-frm-plugin
-Financial Resources Management
+# Financial Resources Management
